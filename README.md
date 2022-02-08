@@ -5,7 +5,7 @@
 
 ### Project Description
 
-This is my first python project and it's a simple script that acts as coffee machine point of sale system. The program asks the user to choose a drink than calculates wether or not the drink can be made. It makes it's caclulations based on the amount of money recieved and if there is enough resources to make said drink.
+This is my first python project and it's a simple script that acts as a coffee machine point of sale system. The program asks the user to choose a drink than calculates wether or not the drink can be made. It makes it's caclulations based on the amount of money recieved and if there is enough resources to make said drink.
 
 
 ---
